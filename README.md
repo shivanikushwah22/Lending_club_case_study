@@ -22,5 +22,5 @@ Our objective is to identify these risky applicants through our analysis and giv
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Contributors
+## Contact:
 Created by [@shivanikushwah22] - feel free to contact me!
